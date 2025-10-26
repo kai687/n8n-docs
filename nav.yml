@@ -47,6 +47,7 @@ nav:
         - Components:
           - workflows/components/index.md
           - Nodes: workflows/components/nodes.md
+          - Trigger nodes: workflows/components/trigger-nodes.md
           - Connections: workflows/components/connections.md
           - Sticky Notes: workflows/components/sticky-notes.md
         - Executions:
