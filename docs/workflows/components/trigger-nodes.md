@@ -44,7 +44,7 @@ Trigger nodes look different from action nodes:
 
 <figure markdown="span">
 ![Screenshot of the Schedule Trigger node](/_images/workflows/components/trigger-nodes/trigger-node.png)
-<figcaption>Trigger nodes are rounded, and have a bolt icon instead of input.</figcaption>
+<figcaption>Trigger nodes are rounded and have a bolt icon instead of input.</figcaption>
 </figure>
 
 ## Add trigger nodes to your workflow
